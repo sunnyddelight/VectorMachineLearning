@@ -39,6 +39,7 @@ class truthEntry:
         self.label=label
         self.vec=vec
 
+
 vec1=[1]*101
 vec2=[1]*101
 vec3=[1]*101
